@@ -1,0 +1,9 @@
+Requirments for the task are mentioned here:
+
+-pandas
+-numpy
+-seaborn
+-matplotlib
+-scikit-learn
+-fastapi
+-uvicorn
